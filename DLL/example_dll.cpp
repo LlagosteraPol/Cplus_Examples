@@ -19,3 +19,11 @@ void MyClass::func(void)
 {
         puts("MyClass.func()");
 }
+
+int MyClass::calcNum(int x){
+        return x + 9999;
+}
+
+void MyClass::printNum(){
+        printf("%d\n",this->calcNum(1));
+}

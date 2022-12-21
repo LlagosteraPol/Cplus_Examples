@@ -29,6 +29,10 @@ public:
         MyClass() {};
         virtual ~MyClass() {};
         void func(void);
+        void printNum();
+
+private:
+        int calcNum(int x);
 };
 
 #endif  // EXAMPLE_DLL_H

@@ -9,6 +9,6 @@ int main(void)
 
         MyClass a;
         a.func();
-
+        a.printNum();
         return 0;
 }
