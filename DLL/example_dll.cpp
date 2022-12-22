@@ -11,6 +11,10 @@ int Double(int x)
 {
         return 2 * x;
 }
+int triple(int x)
+{
+        return 3 * x;
+}
 void CppFunc(void)
 {
         puts("CppFunc");

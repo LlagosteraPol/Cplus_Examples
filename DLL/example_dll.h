@@ -15,6 +15,8 @@
 
         int EXAMPLE_DLL Double(int x);
 
+        int EXAMPLE_DLL triple(int x);
+
 #ifdef __cplusplus
         }
 #endif
