@@ -1,0 +1,4 @@
+LIBRARY add
+	EXPORTS 
+		add=internal_add_function 
+		mult=internal_mult_function 
