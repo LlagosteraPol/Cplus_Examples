@@ -1,13 +1,19 @@
+//g++ -c createTable.cpp
+//g++ -o createTable createTable.o sqlite3.o
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "sqlite3.h"
+#include <string>
+
+using namespace std;
 
 int main(int argc, char* argv[])
 {
    sqlite3 *db;
    char *error = 0;
    int res;
-   char *sql;
+   string sql;
 
    /* Open database */
    res = sqlite3_open("test.db", &db);
@@ -28,7 +34,7 @@ int main(int argc, char* argv[])
      "`message` TEXT)";
 
    /* Execute SQL statement */
-   res = sqlite3_exec(db, sql, NULL, 0, &error);
+   res = sqlite3_exec(db, sql.c_str(), NULL, 0, &error);
    if (res != SQLITE_OK)
      {
        fprintf(stderr, "Error: %s\n", error);
