@@ -1,0 +1,8 @@
+C:\Users\usuari\Cplus_Projects\GUI_Example\GUI_Example\x64\Debug\GUI_Example.vcxproj.AssemblyReference.cache
+C:\Users\usuari\Cplus_Projects\GUI_Example\GUI_Example\x64\Debug\GUI_Example.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\usuari\Cplus_Projects\GUI_Example\GUI_Example\x64\Debug\GUIExample.MyForm.resources
+C:\Users\usuari\Cplus_Projects\GUI_Example\GUI_Example\x64\Debug\GUI_Example.vcxproj.GenerateResource.cache
+D:\CodingProjects\Cplus_Projects\Cplus_Examples\GUI_Example\GUI_Example\x64\Debug\GUI_Example.vcxproj.AssemblyReference.cache
+D:\CodingProjects\Cplus_Projects\Cplus_Examples\GUI_Example\GUI_Example\x64\Debug\GUI_Example.vcxproj.SuggestedBindingRedirects.cache
+D:\CodingProjects\Cplus_Projects\Cplus_Examples\GUI_Example\GUI_Example\x64\Debug\GUIExample.MyForm.resources
+D:\CodingProjects\Cplus_Projects\Cplus_Examples\GUI_Example\GUI_Example\x64\Debug\GUI_Example.vcxproj.GenerateResource.cache
