@@ -47,6 +47,7 @@
         "ctime": "cpp",
         "iterator": "cpp",
         "sstream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "chrono": "cpp"
     }
 }
